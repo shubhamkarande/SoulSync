@@ -1,0 +1,9 @@
+com\soulsync\backend\controller\JournalController.class
+com\soulsync\backend\dto\JournalEntryResponse.class
+com\soulsync\backend\service\JournalService.class
+com\soulsync\backend\SoulSyncBackendApplication.class
+com\soulsync\backend\dto\JournalEntryRequest.class
+com\soulsync\backend\repository\JournalEntryRepository.class
+com\soulsync\backend\model\JournalEntry.class
+com\soulsync\backend\model\Affirmation.class
+com\soulsync\backend\service\SentimentAnalysisService.class
